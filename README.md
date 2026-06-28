@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the practical work completed during **Week 1** of my Cyber Security Internship at **CYBERSTER**.
+This repository contains the practical work completed during **Week 1** of my Cyber Security Internship.
 
 The objective of this lab was to build a virtual Security Operations Center (SOC) environment, configure network communication between multiple systems, deploy Wazuh SIEM, monitor endpoint activity, and perform basic threat detection using real security tools.
 
