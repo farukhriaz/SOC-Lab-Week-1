@@ -126,9 +126,7 @@ Aspiring SOC Analyst
 
 GitHub: https://github.com/farukhriaz
 
-LinkedIn: *(Add your LinkedIn profile here)*
-
----
+LinkedIn: https://www.linkedin.com/in/farukh-riaz-641912337
 
 ## License
 
